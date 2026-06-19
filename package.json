@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "20.x"   // or "22.x" if you prefer
+    "node": "24.x"  
   },
   "scripts": {
     "start": "node backend/index.js",
