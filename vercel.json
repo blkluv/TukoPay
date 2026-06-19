@@ -3,13 +3,11 @@
         "frontend": {
             "root": "frontend",
             "routePrefix": "/",
-            "framework": "vite",
-            "runtime": "nodejs24.x"
+            "framework": "vite"
         },
         "backend": {
             "root": "backend",
-            "routePrefix": "/_/backend",
-            "runtime": "nodejs24.x"
+            "routePrefix": "/_/backend"
         }
     }
 }
